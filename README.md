@@ -1,4 +1,4 @@
-### This company is currently under development :pizza:
+## This company is currently under development :pizza:
 
 <!---
 DeMaggic/DeMaggic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
